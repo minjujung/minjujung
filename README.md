@@ -10,7 +10,7 @@ vegan🥗  love smiling😆 runner🏃🏻‍♀️🏃🏻‍♂️ want to be 
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Gmail-b22222?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-<a href="https://velog.io/@wjdalswn0530" target='_blank'><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+<a href="https://velog.io/@wjdalswn0530" target="_blank"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 </p>
 
 <br/>
