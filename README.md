@@ -1,4 +1,6 @@
-![header](https://user-images.githubusercontent.com/75834421/132097906-7495240f-ad6a-41ca-b66b-5c67649f43c9.png)
+<!-- ![header](https://user-images.githubusercontent.com/75834421/132097906-7495240f-ad6a-41ca-b66b-5c67649f43c9.png) -->
+
+<img style="width: 100%; height: 80%;" src="https://user-images.githubusercontent.com/75834421/132097906-7495240f-ad6a-41ca-b66b-5c67649f43c9.png"/>
 
 <br/>
 
