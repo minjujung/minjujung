@@ -1,4 +1,4 @@
-<p align="center"><img style="width: 80%;border: 1px solid white" src="https://user-images.githubusercontent.com/75834421/132097906-7495240f-ad6a-41ca-b66b-5c67649f43c9.png"/><p/> 
+<p align="center"><img style="width: 100%;border: 1px solid white" src="https://user-images.githubusercontent.com/75834421/132099825-3fba3bc4-b79b-4d91-a657-dedf3b2b6c9d.png"/><p/> 
 
 <br/>
 
@@ -10,7 +10,7 @@ vegan🥗  love smiling😆 runner🏃🏻‍♀️🏃🏻‍♂️ want to be 
 
 <p align="center"> 
 <img src="https://img.shields.io/badge/Gmail-b22222?style=flat-square&logo=Gmail&logoColor=white"/></a>&nbsp
-<a href=""><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
+<a href="https://velog.io/@wjdalswn0530" target='_blank'><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 </p>
 
 <br/>
