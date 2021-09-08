@@ -9,6 +9,7 @@ vegan🥗  love smiling😆 runner🏃🏻‍♀️🏃🏻‍♂️ want to be 
 </p>
 
 <p align="center"> 
+<a href="mailto:love053011@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-b22222?style=flat-square&logo=Gmail&logoColor=white&link=mailto:love053011@gmail.com"/></a>&nbsp
 <a href="https://velog.io/@wjdalswn0530" target="_blank"><img src="https://img.shields.io/badge/Velog-1cca97?style=flat-square&logo=Vimeo&logoColor=white"/></a>&nbsp
 </p>
